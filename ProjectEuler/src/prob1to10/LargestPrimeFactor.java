@@ -1,4 +1,4 @@
-package prob1;
+package prob1to10;
 
 /**
  * Problem 3
